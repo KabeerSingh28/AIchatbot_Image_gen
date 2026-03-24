@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Studio",
+  "description": "A modern AI web application with chat and image generation capabilities, inspired by Google Gemini.",
+  "requestFramePermissions": []
+}
